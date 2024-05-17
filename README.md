@@ -14,7 +14,7 @@ Dimensional Modeling | Data Visualization
 ETL | Data Governance
 
 #### - 📚 Education
-Master of Science, Information Technology and Analytics
+Master of Science, Information Technology and Analytics @RIT
 
 #### 💬 Let's Connect!
 LinkedIn: linkedin.com/in/murielbanze
