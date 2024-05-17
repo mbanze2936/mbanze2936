@@ -1,9 +1,22 @@
-- 👋 Hi, I’m Muriel
-- 🌱 As a seasoned Data Engineer, I specialize in architecting and implementing robust data pipelines to fuel informed decision-making. My expertise lies in seamlessly integrating diverse data sources to drive business success. 
-- 👩🏻‍💻 Currently seeking new opportunities within Data Engineering and Analytics.
-- 📫 Feel free to reach out to me at mbanze2936@gmail.com. Let's connect and explore potential collaborations!
-  
-<!---
-mbanze2936/mbanze2936 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### 👩🏻‍💻 Muriel B
+Data Engineer | Analytics Enthusiast
+
+- Passionate about architecting robust data pipelines and delivering actionable insights. Python aficionado with expertise in SQL, AWS, and more. Let's turn data into gold!
+
+#### - 💼 Experience
+Data Engineer @Foundry, a Digital Currency Group Company
+
+#### - 🚀 Skills
+Python | SQL | AWS
+
+Dimensional Modeling | Data Visualization
+
+ETL | Data Governance
+
+#### - 📚 Education
+Master of Science, Information Technology and Analytics
+
+#### 💬 Let's Connect!
+LinkedIn: linkedin.com/in/murielbanze
+
+Email: mbanze2936@gmail.com
