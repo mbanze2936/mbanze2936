@@ -5,7 +5,7 @@ Data Engineer | Analytics Enthusiast
 
 #### - 💼 Experience
 Data Engineer @Purpleslate - Present
-Data Engineer @Foundry, a Digital Currency Group Company - Past
+- Data Engineer @Foundry, a Digital Currency Group Company - Past
 
 #### - 🚀 Skills
 Python | SQL | AWS
